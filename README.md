@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm VIVEK👋
 
-<!--
-**vivekstackk/vivekstackk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad (3rd year) | Full-Stack Developer | NIT ROURKELA,ODISHA,INDIA
 
-Here are some ideas to get you started:
+## About
+Building web apps with a focus on clean UI.
+Currently learning system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Frontend:** React, HTML/CSS, JavaScript
+**Backend:** Node.js / Express (or Django/Flask — whatever you use)
+**Database:** MongoDB / PostgreSQL
+**Tools:** Git, VS Code, GitGitHub,Linux / Ubuntu,Postman
+
+## Projects
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| [Project 1 Name] | One line — what problem it solves | React, Node | [Live](#) / [Repo](#) |
+| [Project 2 Name] | One line — what problem it solves | Next.js, MongoDB | [Live](#) / [Repo](#) |
+
+## Currently
+- 🔨 Building: [what you're working on]
+- 📚 Learning: [specific thing]
+- 🎯 Goal: Full-stack SDE role (2026)
+
+## Connect
+[LinkedIn](#) • [Email](mailto:you@email.com)
