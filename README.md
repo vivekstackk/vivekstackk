@@ -24,4 +24,4 @@ Currently learning system design.
 - 🎯 Goal: Full-stack SDE role (2026)
 
 ## Connect
-[LinkedIn](linkedin.com/in/vivek-damar) • [Email](vivekdamar28@email.com)
+[LinkedIn](https://www.linkedin.com/in/vivek-damar) • [Email](mailto:vivekdamar28@email.com)
