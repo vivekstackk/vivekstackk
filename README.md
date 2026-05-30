@@ -15,7 +15,7 @@ Currently learning system design.
 ## Projects
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| [Project 1 Name] | One line — what problem it solves | React, Node | [Live](#) / [Repo](#) |
+| [Project 1 Name] | One line — what problem it solves | React, Node | [Live](#) / [https://github.com/vivekstackk/cinemate](#) |
 | [Project 2 Name] | One line — what problem it solves | Next.js, MongoDB | [Live](#) / [Repo](#) |
 
 ## Currently
