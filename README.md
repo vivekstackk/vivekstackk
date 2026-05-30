@@ -16,7 +16,7 @@ Currently learning system design.
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | [Cinemate] | One line — Responsive movie browsing website with movie search and detailed movie information using TMDB API | React, Node | [Live](#) / [Repo](https://github.com/vivekstackk/cinemate) |
-| [Writenode] | Blog website with authentication, blog creation, and post management features| Next.js, MongoDB | [Live](#) / [Repo](https://github.com/vivekstackk/writenode) |
+| [skillswap] | peer learning platform with modern exchnage system| Next.js, MongoDB | [Live](#) / [Repo](https://github.com/vivekstackk/writenode) |
 
 ## Currently
 - 🔨 Building: Full-stack web applications with React, Node.js, and modern development tools.
