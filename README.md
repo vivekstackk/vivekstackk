@@ -15,8 +15,8 @@ Currently learning system design.
 ## Projects
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| [Project 1 Name] | One line — what problem it solves | React, Node | [Live](#) / [https://github.com/vivekstackk/cinemate](#) |
-| [Project 2 Name] | One line — what problem it solves | Next.js, MongoDB | [Live](#) / [Repo](#) |
+| [Cinemate] | One line — Responsive movie browsing website with movie search and detailed movie information using TMDB API | React, Node | [Live](#) / [Repo](https://github.com/vivekstackk/cinemate) |
+| [Writenode] | Blog website with authentication, blog creation, and post management features| Next.js, MongoDB | [Live](#) / [Repo](https://github.com/vivekstackk/writenode) |
 
 ## Currently
 - 🔨 Building: [what you're working on]
