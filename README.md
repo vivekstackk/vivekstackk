@@ -19,8 +19,8 @@ Currently learning system design.
 | [Writenode] | Blog website with authentication, blog creation, and post management features| Next.js, MongoDB | [Live](#) / [Repo](https://github.com/vivekstackk/writenode) |
 
 ## Currently
-- 🔨 Building: [what you're working on]
-- 📚 Learning: [specific thing]
+- 🔨 Building: Full-stack web applications with React, Node.js, and modern development tools.
+- 📚 Learning: System Design, Data Structures & Algorithms, and Backend Development.
 - 🎯 Goal: Full-stack SDE role (2026)
 
 ## Connect
