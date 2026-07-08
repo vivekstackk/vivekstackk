@@ -1,27 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=190&section=header&text=VIVEK&fontSize=58&fontColor=B794F6&fontFamily=Poppins&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%40%20NIT%20Rourkela&descAlignY=58&descSize=17" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+Express;Learning+System+Design+%26+DSA;Aiming+for+an+SDE+Role+in+2026" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/NIT%20Rourkela-Odisha%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vivek-damar"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vivekdamar28@email.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/vivekstackk"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=160&text=VIVEK&fontSize=50&fontColor=B794F6&fontFamily=Poppins&fontAlignY=55" width="100%"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vivekstackk&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vivekstackk?style=flat-square&color=7c3aed&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/vivekstackk?style=flat-square&color=6d28d9&label=STARS)
+<a href="https://www.linkedin.com/in/vivek-damar"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vivekdamar28@email.com"><img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/vivekstackk"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vivekstackk&style=flat-square&color=161b22&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vivekstackk?style=flat-square&color=161b22&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/vivekstackk?style=flat-square&color=161b22&label=STARS)
 
 </div>
 
@@ -29,14 +20,13 @@
 
 ---
 
-## About
+👋 Hey there, I'm Vivek
 
-Computer Science undergrad at NIT Rourkela, focused on full-stack web development with clean, functional UI. Currently deepening my backend fundamentals through system design.
+**Full-Stack Developer | CS Undergrad @ NIT Rourkela**
 
-**Open To:**
-- Full-Stack SDE roles (targeting 2026)
-- Internship opportunities
-- Collaborating on open source / side projects
+I'm based in Odisha, India, focused on building full-stack web apps with clean, functional UI — mostly with React, Node.js, and Express.
+
+Right now I'm deepening my backend fundamentals through system design and DSA, working toward a full-stack SDE role in 2026.
 
 <br/>
 
@@ -106,29 +96,10 @@ Peer learning platform with a modern skill-exchange system connecting users to t
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekstackk)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekstackk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vivekstackk)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-161B22?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/user/vivekstackk)
 
 </div>
-
-<br/>
-
----
-
-## Current Focus
-
-```yaml
-building:
-  - Full-stack web applications with React, Node.js, and Express
-
-learning:
-  - System Design
-  - Data Structures & Algorithms
-  - Backend Development
-
-goal:
-  - Full-stack SDE role (2026)
-```
 
 <br/>
 
@@ -154,43 +125,5 @@ goal:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekstackk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vivekstackk/vivekstackk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:vivekdamar28@email.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vivek-damar"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vivekstackk"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*Still building — one commit at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer"/>
 
 </div>
