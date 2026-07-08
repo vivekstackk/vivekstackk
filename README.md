@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vivekstackk/vivekstackk/main/assets/header.png" width="100%" alt="Vivek Header"/>
+<img src="./assests/header.png" width="100%" alt="Vivek Header">
 
 <br/><br/>
 
