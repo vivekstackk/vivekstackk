@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=VIVEK&fontSize=60&fontColor=B794F6&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%40%20NIT%20Rourkela&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=190&section=header&text=VIVEK&fontSize=58&fontColor=B794F6&fontFamily=Poppins&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%40%20NIT%20Rourkela&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+Express;Learning+System+Design+%26+DSA;Aiming+for+an+SDE+Role+in+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Web+Apps;React+%7C+Node.js+%7C+Express;Learning+System+Design+%26+DSA;Aiming+for+an+SDE+Role+in+2026" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Academic](https://img.shields.io/badge/3rd%20Year-B.Tech%20CSE-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square)
 ![Location](https://img.shields.io/badge/NIT%20Rourkela-Odisha%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -29,11 +29,11 @@
 
 ---
 
-## 🔮 About
+## About
 
-Computer Science undergrad (3rd year) at NIT Rourkela, focused on full-stack web development with clean, functional UI. Currently deepening my backend fundamentals through system design.
+Computer Science undergrad at NIT Rourkela, focused on full-stack web development with clean, functional UI. Currently deepening my backend fundamentals through system design.
 
-**🎯 Open To:**
+**Open To:**
 - Full-Stack SDE roles (targeting 2026)
 - Internship opportunities
 - Collaborating on open source / side projects
@@ -42,7 +42,7 @@ Computer Science undergrad (3rd year) at NIT Rourkela, focused on full-stack web
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -68,10 +68,10 @@ Computer Science undergrad (3rd year) at NIT Rourkela, focused on full-stack web
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <details>
-<summary><b>🔹 Cinemate</b></summary>
+<summary><b>Cinemate</b></summary>
 
 <br/>
 
@@ -85,7 +85,7 @@ Responsive movie browsing website with search and detailed movie information, po
 </details>
 
 <details>
-<summary><b>🔹 SkillSwap</b></summary>
+<summary><b>SkillSwap</b></summary>
 
 <br/>
 
@@ -102,13 +102,12 @@ Peer learning platform with a modern skill-exchange system connecting users to t
 
 ---
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekstackk)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekstackk)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vivekstackk)
 
 </div>
 
@@ -116,7 +115,7 @@ Peer learning platform with a modern skill-exchange system connecting users to t
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 building:
@@ -135,7 +134,7 @@ goal:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -150,19 +149,7 @@ goal:
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivekstackk&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -174,7 +161,7 @@ goal:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -186,7 +173,7 @@ goal:
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
