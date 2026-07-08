@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=160&text=VIVEK&fontSize=50&fontColor=B794F6&fontFamily=Poppins&fontAlignY=55" width="100%"/>
+<img src="./assets/header.png" width="100%" alt="Vivek Header"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vivek-damar"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vivekdamar28@email.com"><img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/vivekstackk"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vivek-damar">
+  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vivekdamar28@email.com">
+  <img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vivekstackk">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vivekstackk&style=flat-square&color=161b22&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vivekstackk?style=flat-square&color=161b22&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/vivekstackk?style=flat-square&color=161b22&label=STARS)
+<img src="https://komarev.com/ghpvc/?username=vivekstackk&style=flat-square&color=161b22&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/vivekstackk?style=flat-square&color=161b22&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/vivekstackk?style=flat-square&color=161b22&label=STARS"/>
 
 </div>
 
@@ -110,6 +120,7 @@ Peer learning platform with a modern skill-exchange system connecting users to t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vivekstackk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F6&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+
 <img src="https://streak-stats.demolab.com?user=vivekstackk&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekstackk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F6&text_color=C9D1D9" width="49%"/>
