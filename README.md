@@ -4,9 +4,9 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<a href="https://github.com/vivekstackk"><img src="./icon-github.svg" width="20" height="20" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vivek-damar"><img src="./icon-linkedin.svg" width="20" height="20" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/vivekkk44/"><img src="./icon-leetcode.svg" width="20" height="20" alt="LeetCode"/></a>
+<a href="https://github.com/vivekstackk"><img src="./icon-github.svg" width="16" height="16" alt="GitHub"/>&nbsp;<samp>github</samp></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vivek-damar"><img src="./icon-linkedin.svg" width="16" height="16" alt="LinkedIn"/>&nbsp;<samp>linkedin</samp></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/u/vivekkk44/"><img src="./icon-leetcode.svg" width="16" height="16" alt="LeetCode"/>&nbsp;<samp>leetcode</samp></a>
 
 </div>
 
