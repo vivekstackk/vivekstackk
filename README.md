@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./ascii.svg" width="460" alt="Vivek Damar"/>
 
@@ -53,11 +53,3 @@ exchange knowledge, and learn from one another.
 
 <img src="./year.svg" width="620" alt="the year in contributions"/>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-> This page makes zero third-party requests. Everything is drawn inside this repository.
-
-The ASCII portrait is mapped through a 13-step character ramp and animated via<br>
-SMIL with inlined JetBrains Mono. Contribution stats, streaks, and language graphs<br>
-are queried from the GitHub GraphQL API and rendered to SVGs on a daily schedule<br>
-via GitHub Actions.
