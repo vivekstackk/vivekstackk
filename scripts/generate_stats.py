@@ -364,7 +364,7 @@ def draw_heading(word):
     FS = 16
     H = 26
     text_end = len(word) * FS * 0.6 + 18
-    p = [head(WIDTH, H, font=font_head())]
+    p = [head(WIDTH, H, font=font_text())]
     p.append(label(0, 18, word, FS, "e-f", extra=' font-weight="600"'))
     p.append(f'<line x1="{text_end:.0f}" y1="12.5" x2="{WIDTH}" y2="12.5" '
              f'class="u-s" stroke-width="1"/>')
@@ -498,7 +498,7 @@ def main():
 
     files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
              "langs.svg": draw_langs(s), "year.svg": draw_year(s)}
-    for word in ("about", "stack", "projects", "stats"):
+    for word in ("about", "portfolio", "stack", "projects", "stats"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 
     changed = [n for n, svg in files.items()
