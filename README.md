@@ -21,12 +21,6 @@ I build modern full-stack web applications, backend architectures, and distribut
 Focused on clean software design, concurrency-safe data workflows, reliable background queues,<br>
 and high-performance developer services.
 
-<img src="./hd-portfolio.svg" width="620" alt="portfolio"/>
-
-> 🌐 **Interactive Portfolio OS:** [**vivekme.vercel.app**](https://vivekme.vercel.app/)
-
-A retro-modern desktop environment featuring interactive project deep-dives, live API showcases, verified credentials, and an interactive terminal.
-
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
 <samp>typescript &nbsp; javascript &nbsp; python &nbsp; c++ &nbsp; sql &nbsp; react &nbsp; next.js &nbsp; node &nbsp; fastify &nbsp; express &nbsp; postgresql &nbsp; redis &nbsp; mongodb &nbsp; drizzle-orm &nbsp; docker &nbsp; git &nbsp; linux</samp>
