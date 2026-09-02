@@ -25,7 +25,7 @@ how things work beyond the interface.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[seatwise](https://github.com/vivekstackk/seatwisecheck)** &nbsp;·&nbsp; <samp>typescript, react, full-stack</samp><br>
+**[seatwise](https://github.com/vivekstackk/seatwise)** &nbsp;·&nbsp; <samp>typescript, react, full-stack</samp><br>
 Smart seat management and reservation platform. Interactive seat selection,<br>
 reservation workflows, and seamless booking state management.
 
